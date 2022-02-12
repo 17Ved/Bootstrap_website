@@ -1,0 +1,21 @@
+Class in HTML --
+The HTML class attribute is used to specify a class for an HTML element.
+Multiple HTML elements can share the same class.
+
+example of class in html
+  <button type="button" class="btn btn-primary">Primary</button>
+  
+here 'btn', 'btn-primary' and 'btn-sm' are three different classes assigned to the button element.
+and the property of these classes will get applied to that button element
+The class attribute is often used to point to a class name in a style sheet. 
+It can also be used by a JavaScript to access and manipulate elements with the specific class name.
+
+ID in HTML
+
+The HTML id attribute is used to specify a unique id for an HTML element.
+You cannot have more than one element with the same id in an HTML document.
+The id attribute specifies a unique id for an HTML element. The value of the id attribute must be unique within the HTML document.
+
+The id attribute is used to point to a specific style declaration in a style sheet. It is also used by JavaScript to access and manipulate the element with the specific id.
+
+The syntax for id is: write a hash character (#), followed by an id name. Then, define the CSS properties within curly braces {}.
